@@ -2,6 +2,8 @@
 
 发布日期：2026-11-14
 
+安装包更新（2026-11-15）：改为带右箭头与中文引导的 DMG 拖动安装包；应用功能和版本保持不变。
+
 - 插画草地、三只羊、错开变化的云团及一小时昼夜循环。
 - 连接 Finder 桌面图标，移动后触发焦黄与散云。
 - 连片黄区统一恢复与淡出，羊群避让黄区和彼此。
@@ -10,7 +12,7 @@
 
 ## 下载与安装
 
-下载 **Pooplo-v0.2.0-alpha.1-macOS-arm64.zip**，解压后将 Pooplo.app 放入“应用程序”，打开并授予辅助功能权限。无需下载 Source code。
+下载 **[Pooplo-v0.2.0-alpha.1-macOS-arm64.dmg](https://github.com/JAigors0503/pooplo/releases/download/v0.2.0-alpha.1/Pooplo-v0.2.0-alpha.1-macOS-arm64.dmg)**，双击后将左侧 Pooplo 沿箭头拖到右侧 Applications。复制完成后推出安装磁盘，从“应用程序”打开并授予辅助功能权限。无需下载 Source code。
 
 适用 Apple Silicon Mac、macOS 13+。本包仅有 ad-hoc 签名，未进行 Apple 公证，首次启动可能受系统拦截。详细步骤见 [安装说明](https://github.com/JAigors0503/pooplo/blob/main/INSTALL.md)。
 

@@ -8,8 +8,8 @@
 
 ## 安装
 
-1. 在 [Releases](https://github.com/JAigors0503/pooplo/releases/tag/v0.2.0-alpha.1) 的 Assets 中下载 `Pooplo-v0.2.0-alpha.1-macOS-arm64.zip`。不要下载 GitHub 自动生成的 Source code 压缩包，它们不包含 App。
-2. 解压后，将 **Pooplo.app** 拖入“应用程序”文件夹，再打开它。不需要安装 Git、Swift 或其他开发工具。
+1. 在 [Releases](https://github.com/JAigors0503/pooplo/releases/tag/v0.2.0-alpha.1) 的 Assets 中下载 `Pooplo-v0.2.0-alpha.1-macOS-arm64.dmg`。不要下载 GitHub 自动生成的 Source code 压缩包，它们不包含 App。
+2. 双击 DMG 打开安装窗口，将左侧 **Pooplo** 沿右箭头拖到右侧 **Applications（应用程序）**。等待复制完成，再推出“Pooplo Installer”磁盘，从“应用程序”打开 Pooplo。打开 DMG 本身不会自动安装；不需要安装 Git、Swift 或其他开发工具。
 3. 此内测包没有 Apple Developer ID 签名及公证。若系统提示无法验证开发者，可在尝试打开后进入“系统设置 → 隐私与安全性”，查看是否提供“仍要打开”，按系统提示确认。浏览器允许下载不代表 macOS 已允许启动。若提示恶意软件、文件损坏或没有继续打开选项，请停止并反馈具体提示，不要关闭系统安全保护。
 4. 按提示在“系统设置 → 隐私与安全性 → 辅助功能”中允许 **Pooplo**。如列表里没有，可用加号选择 `/Applications/Pooplo.app`。授权后自动连接；必要时退出并重新打开。
 5. 移动一个桌面文件或文件夹，放稳后等待片刻，检查变黄及散云效果。仅点击或启动时原有的位置不会触发。
@@ -29,4 +29,4 @@
 
 ## 下载校验
 
-同一 Release 提供 `SHA256SUMS.txt`，可与下载 ZIP 的 SHA-256 对照，确认文件完整。
+同一 Release 提供 `SHA256SUMS.txt`，可与下载 DMG 的 SHA-256 对照，确认文件完整。

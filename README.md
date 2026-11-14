@@ -4,7 +4,9 @@
 
 让桌面变成一个会回应你的小世界。Pooplo 是 macOS 动态壁纸应用，目前提供插画草地主题，未来计划扩展更多主题。
 
-**[下载首个内测版 v0.2.0-alpha.1](https://github.com/JAigors0503/pooplo/releases/tag/v0.2.0-alpha.1)** · [安装与使用](INSTALL.md) · [更新记录](CHANGELOG.md)
+**[下载 macOS 安装包（DMG）](https://github.com/JAigors0503/pooplo/releases/download/v0.2.0-alpha.1/Pooplo-v0.2.0-alpha.1-macOS-arm64.dmg)** · [安装与使用](INSTALL.md) · [更新记录](CHANGELOG.md)
+
+双击下载的 DMG，将左侧 Pooplo 沿箭头拖到右侧 Applications（应用程序），复制完成后从“应用程序”打开。
 
 适用于 **Apple Silicon（M 系列）Mac、macOS 13 或更新版本**。Intel Mac 和 Windows 暂不支持。本版为未公证的内测包，首次打开可能被 macOS 拦截，具体处理方式见安装说明。
 
